@@ -7,5 +7,6 @@ Variants:
 4. [$dec | * | + | + | + | + | * | + |](/tasks/task_04/!Lab04.pdf)
 5. [$id !!-, $idq !!](/tasks/task_05/!Lab05.pdf)
 6. [(define $id $int) (define $id $dec) (set! $id(- $id $id))](/tasks/task_06/!Lab06.pdf)
+7. [(define $id $int) (define $id $dec) (set! $id(- $id $id))](/tasks/task_07/!Lab07.pdf)
 ## Course project
-..
+...
