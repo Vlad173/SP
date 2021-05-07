@@ -8,6 +8,6 @@ Variants:
 5. [$id !!-, $idq !!](/tasks/task_05/!Lab05.pdf)
 6. [(define $id $int) (define $id $dec) (set! $id(- $id $id))](/tasks/task_06/!Lab06.pdf)
 7. [Grammar g09](/tasks/task_07/!Lab07.pdf)
-8. [Dialect n09](/tasks/task_08/!Lab08.pdf)
-## Course project
-...
+8. [Grammar n09](/tasks/task_08/!Lab08.pdf)
+## Course projects
+1. [Variant n09](/tasks/task_cp_01/Curs1-20x-nn.pdf)
