@@ -25,11 +25,6 @@
   ( = 1 (cond(x? (cond(y? 1) (else 0))) (else 0)))
 )
 
-(define (MORE? x y)
-    (AND2? (not (< x y)) (not (= x y)))
-)
-
-
 (define (count-change amount)
   (display "______")
   (newline)
@@ -44,7 +39,7 @@
       (display "largest-coin: ")
       (display largest-coin)
       (newline)
-      (cond((AND3? (MORE? amount 0) (MORE? KINDS-OF-COINS 0) (MORE? largest-coin 0))
+      (cond((AND3? (< 0 amount) (< 0 KINDS-OF-COINS) (< 0 largest-coin))
          (let()
            (display "List of coin denominations: ")
            (denomination-list KINDS-OF-COINS)
