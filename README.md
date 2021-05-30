@@ -11,3 +11,4 @@ Variants:
 8. [Grammar n09](/tasks/task_08/!Lab08.pdf)
 ## Course projects
 1. [Variant n09](/tasks/task_cp_01/Curs1-20x-nn.pdf)
+2. [Variant n09](/tasks/task_cp_02/Curs2-20x-nn.pdf)
